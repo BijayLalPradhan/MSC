@@ -1,0 +1,61 @@
+SN,Age,Religion,Ethnicity,Family_No,Area_roof (sq feet),Chilli,Tomato,Beans,Cucumber,Coriander,Peas,Spinach,Satisfaction,time_hrs,money_spend
+1,63,Buddhism,Newar,7,540,1,1,1,1,1,1,1,complete,1,5400
+2,50,Buddhism,Newar,4,100,1,1,1,1,1,0,1,complete,4,7200
+3,42,Hindu,Brahmin,7,180,1,1,1,1,1,1,1,complete,1,7000
+4,47,Buddhism,Newar,4,320,1,1,1,1,0,0,1,complete,2,2800
+5,45,Hindu,Chhetri,6,180,1,1,1,0,1,1,1,complete,3,2500
+6,48,Buddhism,Chhetri,8,162,1,1,1,0,1,0,1,complete,2,1500
+7,46,Buddhism,Newar,5,160,1,1,0,1,1,0,1,complete,4,2500
+8,48,Buddhism,Newar,6,192,1,1,1,1,0,0,1,complete,2,6000
+9,42,Buddhism,Newar,5,120,1,1,1,1,1,1,1,complete,4,7000
+10,46,Hindu,Chhetri,6,180,1,0,1,1,1,0,1,complete,4,4500
+11,45,Hindu,Chhetri,7,128,1,1,0,0,1,1,1,moderate ,1,7500
+12,56,Hindu,Newar,8,180,1,1,1,1,0,0,1,complete,4,6500
+13,47,Hindu,Chhetri,5,132,1,0,0,1,0,1,1,complete,3,3000
+14,50,Hindu,Chhetri,7,160,1,1,1,1,1,1,1,moderate ,4,2500
+15,39,Hindu,Chhetri,5,120,1,1,0,0,0,0,1,complete,3,3300
+16,60,Hindu,Newar,8,184,1,1,0,1,1,1,1,complete,3,4000
+17,48,Hindu,Newar,4,100,1,0,0,1,0,1,1,complete,1,4200
+18,43,Hindu,Newar,4,150,1,1,1,0,0,0,1,complete,3,5000
+19,38,Hindu,Chhetri,3,200,1,1,1,1,1,0,1,moderate ,3,3200
+20,42,Hindu,Chhetri,7,120,1,0,0,1,0,1,1,complete,3,4300
+21,42,Hindu,Chhetri,6,160,1,1,0,1,0,0,1,complete,,7000
+22,40,Hindu,Chhetri,5,158,1,1,1,1,0,0,1,complete,,4500
+23,35,Hindu,Chhetri,4,172,1,0,1,1,0,0,1,complete,2,6200
+24,40,Hindu,Chhetri,5,160,1,1,1,1,1,1,1,complete,3,5500
+25,48,Hindu,Chhetri,6,168,1,0,1,1,1,1,1,moderate ,1,7500
+26,45,Hindu,Chhetri,6,175,1,1,1,1,1,1,1,moderate ,1,1500
+27,55,Hindu,Chhetri,5,180,0,1,1,1,1,1,1,complete,2,2000
+28,58,Hindu,Chhetri,6,165,0,1,1,1,1,1,1,complete,3,3300
+29,45,Hindu,Newar,5,150,0,1,1,1,1,1,1,moderate ,2,5000
+30,40,Buddhism,Newar,4,130,0,1,1,1,1,1,1,moderate ,3,3400
+31,69,Buddhism,Newar,7,420,0,1,1,1,1,1,1,complete,4,3500
+32,50,Buddhism,Newar,4,100,1,1,1,1,1,1,1,complete,2,6000
+33,56,Buddhism,Newar,7,180,10,1,1,0,1,1,1,complete,1,5500
+34,47,Buddhism,Newar,4,190,0,1,1,0,1,1,1,complete,2,5000
+35,45,Hindu,Chhetri,6,180,0,1,1,0,1,1,1,complete,1,4800
+36,48,Hindu,Chhetri,8,170,1,1,1,1,0,1,1,complete,3,2200
+37,46,Buddhism,Newar,5,150,1,10,1,0,1,0,1,complete,4,1800
+38,50,Buddhism,Newar,6,184,10,1,1,1,1,1,1,complete,3,2900
+39,45,Hindu,Newar,5,130,1,1,0,0,1,1,1,complete,3,3800
+40,52,Hindu,Newar,6,180,0,1,1,1,1,1,1,complete,1,2300
+41,49,Hindu,Newar,7,140,0,1,0,1,1,0,1,moderate ,3,3200
+42,59,Hindu,Newar,8,162,0,1,0,0,0,1,1,complete,3,4500
+43,47,Hindu,Chhetri,6,150,1,1,1,1,1,0,1,complete,1,5600
+44,55,Hindu,Chhetri,7,150,0,1,1,1,1,1,1,moderate ,1,3100
+45,51,Hindu,Newar,5,125,1,1,1,1,1,1,1,complete,3,6800
+46,60,Hindu,Newar,8,190,0,1,1,1,1,0,1,complete,12,3500
+47,48,Hindu,Newar,4,110,1,1,1,0,0,1,1,complete,2,6000
+48,43,Hindu,Newar,4,140,1,1,1,1,1,0,1,complete,3,2800
+49,38,Hindu,Chhetri,3,225,1,1,1,1,1,0,1,moderate ,4,7200
+50,42,Hindu,Chhetri,8,130,1,1,1,1,0,1,1,complete,4,3500
+51,42,Hindu,Chhetri,5,,1,1,1,1,1,0,1,complete,15,4500
+52,40,Hindu,Chhetri,5,,1,1,1,0,1,1,1,complete,1,2000
+53,35,Hindu,Chhetri,6,175,1,1,1,1,1,0,1,complete,2,4800
+54,40,Hindu,Chhetri,5,168,1,1,1,1,1,1,1,complete,2,25000
+55,49,Hindu,Chhetri,4,170,1,1,1,0,0,1,1,moderate ,2,4800
+56,46,Hindu,Chhetri,6,180,1,1,1,1,1,0,1,moderate ,4,6200
+57,45,Bindu,Chhetri,5,188,1,1,1,1,1,1,1,complete,3,2600
+58,49,Hindu,Chhetri,6,170,10,1,1,0,1,0,1,complete,3,1500
+59,45,Hindu,Newar,5,140,0,1,1,1,1,1,1,moderate ,1,1500
+60,140,Buddhism,Mewar,4,125,0,1,1,1,1,1,1,moderate ,3,2300
