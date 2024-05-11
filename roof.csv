@@ -55,7 +55,7 @@ SN,Age,Religion,Ethnicity,Family_No,Area_roof (sq feet),Chilli,Tomato,Beans,Cucu
 54,40,Hindu,Chhetri,5,168,1,1,1,1,1,1,1,complete,2,25000
 55,49,Hindu,Chhetri,4,170,1,1,1,0,0,1,1,moderate ,2,4800
 56,46,Hindu,Chhetri,6,180,1,1,1,1,1,0,1,moderate ,4,6200
-57,45,Bindu,Chhetri,5,188,1,1,1,1,1,1,1,complete,3,2600
+57,45,Buddhism,Chhetri,5,188,1,1,1,1,1,1,1,complete,3,2600
 58,49,Hindu,Chhetri,6,170,10,1,1,0,1,0,1,complete,3,1500
 59,45,Hindu,Newar,5,140,0,1,1,1,1,1,1,moderate ,1,1500
-60,140,Buddhism,Mewar,4,125,0,1,1,1,1,1,1,moderate ,3,2300
+60,140,Buddhism,Newar,4,125,0,1,1,1,1,1,1,moderate ,3,2300
